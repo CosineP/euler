@@ -1,0 +1,8 @@
+# Ignore extensionless files (because they're probably binaries)
+*
+!*.*
+!*/
+
+# Haskell stuff
+*.hi
+*.o
